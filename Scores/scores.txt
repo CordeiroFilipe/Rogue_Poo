@@ -1,0 +1,4 @@
+filipe : 554 : 17 : 1 : Won
+
+ze : 77 : 1 : 1 : Lost
+ze : 613 : 17 : 2 : Won

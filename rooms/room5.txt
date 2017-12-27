@@ -1,0 +1,15 @@
+#
+# 0 D room0.txt 2 key1
+#
+# key1
+#
+WWWWWWWWWW
+Wk    G  W
+WWWWWWWW W
+W    S   W
+W WWWWWWWW
+W   B    W
+WWWWWWWW W
+W        W
+0       sW
+WWWWWWWWWW
